@@ -1,6 +1,6 @@
 package project1;
 public class quiz {
     public static void main(String[] args) {
-        System.out.println("Welcome to my project..");
+        System.out.println("Welcome to our project..");
     }
 }
